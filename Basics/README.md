@@ -33,14 +33,4 @@ Before diving into complex data structures like Graphs or DP, it is crucial to m
 * Optimizing lookups from $O(N)$ to $O(1)$.
 
 ---
-## 🚀 Progress Tracking
-
-| Module | Status | Description |
-| :--- | :---: | :--- |
-| **Patterns** | ✅ | Loop mastery & shape printing |
-| **Basic Maths** | ✅ | Primes, GCD, Divisors |
-| **Recursion** | 🚧 | Functional recursion basics |
-| **Hashing** | 🚧 | Frequency arrays & maps |
-
----
 *Keep Building!* 🧱
